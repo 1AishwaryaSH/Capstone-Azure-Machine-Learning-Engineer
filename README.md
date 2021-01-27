@@ -42,3 +42,45 @@ The dataset is stored at
 https://raw.githubusercontent.com/1AishwaryaSH/ML-Engineer-with-Azure-Capstone/main/heart_failure_clinical_records_dataset.csv
 
 I imported the data into azure platform by uploading it from local files into Datasets for automated ML model whereas for tuning hyperparameters using hyperdrive I used the above mentioned link in the train.py file.
+
+![](accuracyHyper.png)
+
+![](after service.delete().png)
+
+![](automlrun1.png)
+
+![](automlrun2.png)
+
+![](automlrun3.png)
+
+![](automlrun4.png)
+
+![](besthypermodel.png)
+
+![](bestmodelauto.png)
+
+![](bestmodelauto_azure.png)
+
+![](cluster delete.png)
+
+![](data1.png)
+
+![](data2.png)
+
+![](data3.png)
+
+![](experiments.png)
+
+![](instance delete.png)
+
+![](metricsauto.png)
+
+![](metricshyper.png)
+
+ ![](rundHyper.png)
+
+![](rundauto.png)
+
+![](webservice.png)
+
+![](webservice2.png)
