@@ -79,7 +79,7 @@ I imported the data into azure platform by uploading it from local files into Da
 
  ![](rundHyper.png)
 
-![](rundauto.png)
+![]("/screenshots/rundauto.png")
 
 ![](webservice.png)
 
