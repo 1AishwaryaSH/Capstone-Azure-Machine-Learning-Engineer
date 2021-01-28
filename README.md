@@ -141,13 +141,7 @@ Steps to deploy:
 * Application insights can be enabled to monitor the deployed web service.
 
 ## ScreenCast
-* Automl
-https://youtu.be/JKEDKhBKtUU
-* Hyperdrive
-https://youtu.be/Jgr9RWtLGTI
-* Deploy
-https://youtu.be/hJw5kaKQRmg
-
+* https://youtu.be/o9rq82ZdgK4
 ## proof of clean up
 ### Compute Cluster
 ![](https://github.com/1AishwaryaSH/Capstone-Azure-Machine-Learning-Engineer/blob/main/screenshots/cluster%20delete.png)
