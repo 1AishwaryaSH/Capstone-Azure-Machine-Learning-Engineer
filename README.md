@@ -113,7 +113,7 @@ The Accuracy: is 0.9166666666666666
 ## Comparision
 In Hyperdrive I used logistic regression model for the prediction with hyperparameters namely C, max_iter, where as in AutoML multiple models were generated with less human intervention and less time which would otherwise needed more effort for tuning the hyperparameters and training these models.
 For this particular project on prediction of Heart Failure the Hyperdrive pipeline is more accurate. 
-The best model obtained using HyperDrive was found with an Accuracy: 0.9166666666666666 where as the best AutoMl model 'VotingEnsemble' had an Accuracy: 0.8729943502824857. So we conclude that use of AutoML. 
+The best model obtained using HyperDrive was found with an Accuracy: 0.9166666666666666 where as the best AutoMl model 'VotingEnsemble' had an Accuracy: 0.8729943502824857. SO the hyperdrive model have better accuracy. 
 Coming to the aspect of execution time I found that the hyperdrive took comparitively less time to generate the model.
 
 ## Model Deployment
